@@ -1376,6 +1376,9 @@ h4 {
     margin-right: -9rem;
   }
 }
+.status{
+  text-align: center;
+}
 @media (max-width: 991px) {
   .header .burger {
     cursor: pointer;
